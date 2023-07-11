@@ -15,3 +15,8 @@ header {
   font-size: 1.18rem;
   font-weight: 600;
 }
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
