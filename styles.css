@@ -1,0 +1,6 @@
+body {
+  height: 100dvh;
+  background: linear-gradient(217deg, rgba(255, 0, 0, 0.592), transparent 70.71%),
+    linear-gradient(127deg, #e97cbcc6, transparent 70.71%),
+    linear-gradient(336deg, #3d47d9c3, transparent 70.71%);
+}
