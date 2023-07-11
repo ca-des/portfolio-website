@@ -40,3 +40,38 @@ li {
 a {
   text-decoration: none;
 }
+
+.hero {
+  margin-top: 4.575em;
+  font-weight: 500;
+}
+
+.container-hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-text {
+  width: 50%;
+  gap: 1.275em;
+}
+
+.hero-title,
+.hero-subtitle {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+}
+
+.hero-subtitle {
+  gap: 1.09em;
+}
+
+.hero-subtitle p {
+  margin: 0px;
+  font-size: 1.375rem;
+}
